@@ -1,0 +1,6 @@
+django_env
+.env 
+db.sqlite3
+django_onprem_deployment
+conf
+.vscode
